@@ -1,0 +1,27 @@
+body {
+    font-family: monospace;
+    color: rgb(51, 51, 51);
+    background-color: rgb(108, 241, 126);
+    text-align: center;
+    
+}
+ol{
+    text-align: left;
+}
+img {
+    
+    width: 200px;
+    border-radius: 10px;
+}
+a:hover {
+    background-color: rgb(255, 251, 0);
+}
+a:link{
+    color: rgb(6, 12, 180);
+}
+a:visited{
+    color:rgb(255, 0, 0);
+}
+p{
+    font-family: cursive;
+}
